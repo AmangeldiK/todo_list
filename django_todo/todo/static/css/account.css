@@ -1,0 +1,21 @@
+
+
+div {
+    background-position: center;
+}
+
+.post{
+    clear: both;
+    text-align: right;
+}
+
+
+.logo a {
+    color: black;
+
+}
+.logo a:hover,
+.logo a:active {
+    text-decoration: none;
+}
+
